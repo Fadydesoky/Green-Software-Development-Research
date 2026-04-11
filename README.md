@@ -121,6 +121,7 @@ The project highlights the complexity of energy consumption in software systems 
 Data Analyst | Energy Efficiency & Sustainable Tech | Software Engineering Background
 
 LinkedIn: https://www.linkedin.com/in/fadydesokysaeedabdelaziz/
+
 Dev.to: https://dev.to/fadydesokysaeedabdelaziz
 
 Research profiles available upon request.
