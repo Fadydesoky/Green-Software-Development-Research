@@ -40,7 +40,7 @@ The analysis includes key system metrics such as:
 
 ## Key Insights
 
-* Weak correlation between CPU usage and energy consumption
+* **CPU usage alone is not a reliable predictor of energy consumption.**
 * Energy consumption varies significantly across software tools
 * Traditional performance metrics alone are insufficient for accurate energy prediction
 * Multi-factor analysis is required for effective energy optimization
