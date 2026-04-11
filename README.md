@@ -1,3 +1,52 @@
+# Energy Consumption Analysis for Software Systems
+
+![Dashboard](images/dashboard.png)
+
+## Overview
+
+This project explores the relationship between software resource usage (CPU, memory, disk I/O) and energy consumption, aiming to support energy-efficient and sustainable software systems.
+
+This project demonstrates how data-driven analysis can support energy-aware software design and sustainability-focused decision making.
+
+---
+
+## Problem Statement
+
+Modern software systems are typically optimized for performance, but energy consumption remains an underexplored factor. This project investigates whether traditional performance metrics can effectively predict energy usage.
+
+---
+
+## Dataset & Features
+
+The analysis includes key system metrics such as:
+
+* CPU Usage (%)
+* Memory Usage (MB)
+* Disk I/O (MBps)
+* Energy Consumption (Watts)
+* Workload characteristics
+
+---
+
+## Analysis & Methods
+
+* Exploratory Data Analysis (EDA)
+* Correlation Analysis
+* Data Visualization (scatter plots, distributions, heatmaps)
+* Predictive Modeling (Actual vs Predicted energy consumption)
+* Power BI Dashboard for comparative insights
+
+---
+
+## Key Insights
+
+* Weak correlation between CPU usage and energy consumption
+* Energy consumption varies significantly across software tools
+* Traditional performance metrics alone are insufficient for accurate energy prediction
+* Multi-factor analysis is required for effective energy optimization
+
+---
+
 ## Visual Analysis
 
 ### Actual vs Predicted Energy Consumption
@@ -40,3 +89,38 @@ An interactive dashboard was developed to compare energy consumption across diff
 
 Full dashboard available here:
 [View Full Dashboard](dashboard.pdf)
+
+---
+
+## Tools & Technologies
+
+* Python (Pandas, Matplotlib, Seaborn)
+* Power BI
+* Data Visualization Techniques
+* Machine Learning (basic predictive modeling)
+
+---
+
+## Results
+
+The project highlights the complexity of energy consumption in software systems and emphasizes the importance of data-driven approaches for building sustainable and energy-efficient applications.
+
+---
+
+## Future Work
+
+* Improve predictive models
+* Integrate real-time monitoring data
+* Apply optimization techniques for energy-aware scheduling
+
+---
+
+## Author
+
+**Fady Desoky Saeed Abdelaziz**
+Data Analyst | Energy Efficiency & Sustainable Tech | Software Engineering Background
+
+LinkedIn: https://www.linkedin.com/in/fadydesokysaeedabdelaziz/
+Dev.to: https://dev.to/fadydesokysaeedabdelaziz
+
+Research profiles available upon request.
